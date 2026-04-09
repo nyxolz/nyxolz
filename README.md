@@ -10,7 +10,7 @@
 ### Featured Projects (UI Development)
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=Waveui&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=focus-quest-&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=BrainrotUI&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa" />
 </p>
 
