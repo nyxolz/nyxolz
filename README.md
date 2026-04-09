@@ -27,6 +27,6 @@ I’m looking for help with **Armorix Team**!
 > **DM me on Discord:** `nyxolz`
 
 ---
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true&cache_seconds=1)
 
 
