@@ -13,8 +13,7 @@ I've listed them here:*
 MacSploit.
 * **BrainrotUI** - Another ui for macsploit, with multiple themes: tung tung tung sahur, chimanzini bananani, tralalero tralala.
 
-  
-![Focus-Quest Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=focus-quest-&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa)
+  ![Focus-Quest Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=focus-quest-&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&description=Electron-based+productivity+quest+tracker)
 
 
 
@@ -28,7 +27,7 @@ I’m looking for help with **Armorix Team**!
 
 ---
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true&langs_count=10)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true&hide_progress=true)
 
 
 
