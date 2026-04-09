@@ -26,7 +26,7 @@ I’m looking for help with **Armorix Team**!
 [![Discord](https://img.shields.io/badge/Discord-%23333333.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nyxolz)
 > **DM me on Discord:** `nyxolz`
 
----
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true&cache_seconds=1)
+---![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true&langs_count=10&cache_seconds=1)
+
 
 
