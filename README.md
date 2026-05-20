@@ -11,7 +11,7 @@
 I've listed them here:*
 * **WaveUI** - copy of "Wave"'s UI made for
 MacSploit.
-* **BrainrotUI** - Another ui for macsploit, with multiple themes: tung tung tung sahur, chimanzini bananani, tralalero tralala.
+
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=focus-quest-&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa" />
