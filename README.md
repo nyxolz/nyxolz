@@ -1,36 +1,49 @@
 
-![nyxolz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nyxolz&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&cache_seconds=1)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxolz&theme=dark&background=1a1a1a&ring=ffffff&fire=ffffff&currStreakNum=ffffff" height="150" />
+## stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nyxolz&show_icons=true&theme=dark&bg_color=000000&title_color=cccccc&icon_color=666666&text_color=999999&count_private=true&cache_seconds=1&hide_border=true" height="180" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxolz&theme=dark&background=000000&ring=666666&fire=666666&currStreakNum=cccccc&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=000000&title_color=cccccc&text_color=999999&count_private=true&langs_count=10&hide_progress=true&hide_border=true" height="180" />
+</div>
+
+---
+
+## About Me
+
+Currently Learning
+- C++
+- Python
+- Luau
+- TypeScript
+- Reverse engineering
+
+Languages I Use
+JavaScript, TypeScript, HTML, CSS
+
+Languages I HATE
+Swift, C++
+
+---
+
+## Projects
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=prism-website&theme=dark&bg_color=000000&title_color=cccccc&text_color=999999&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=cherry&theme=dark&bg_color=000000&title_color=cccccc&text_color=999999&hide_border=true" />
 </p>
 
----
 
-### Featured Projects (UI Development)
-*Since these UIs are currently private,
-I've listed them here:*
-* **WaveUI** - copy of "Wave"'s UI made for
-MacSploit.
+## Armorix Team
 
+Working on expanding Armorix Team.
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=focus-quest-&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa" />
-</p>
-
-![Swift](https://img.shields.io/badge/Language-Swift-333333?style=for-the-badge&logo=swift&logoColor=white)
-![IPA](https://img.shields.io/badge/Build-IPA%20Support-333333?style=for-the-badge&logo=apple&logoColor=white)
-
-
+Website: [armorixteam.xyz](https://armorixteam.xyz)  
+Discord: `nyxolz`
 
 ---
-
-### Armorix Team
-I’m looking for help with **Armorix Team**! 
-
-[![Discord](https://img.shields.io/badge/Discord-%23333333.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nyxolz)
-> **DM me on Discord:** `nyxolz`
-
----
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=1a1a1a&title_color=ffffff&text_color=aaaaaa&count_private=true&langs_count=10&hide_progress=true)
-
