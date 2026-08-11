@@ -13,14 +13,4 @@ JavaScript, TypeScript, HTML, CSS
 Languages I HATE
 Swift, C++
 ---
-## Projects
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=prism-website&theme=dark&bg_color=000000&title_color=cccccc&text_color=999999&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nyxolz&repo=cherry&theme=dark&bg_color=000000&title_color=cccccc&text_color=999999&hide_border=true" />
-</p>
 
-## Armorix Team
-Working on expanding Armorix Team.
-Website: [armorixteam.xyz](https://armorixteam.xyz)  
-Discord: `nyxolz`
----
