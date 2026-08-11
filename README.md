@@ -2,15 +2,7 @@
 
 ## stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nyxolz&show_icons=true&theme=dark&bg_color=000000&title_color=cccccc&icon_color=666666&text_color=999999&count_private=true&cache_seconds=1&hide_border=true" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxolz&theme=dark&background=000000&ring=666666&fire=666666&currStreakNum=cccccc&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nyxolz&layout=compact&theme=dark&bg_color=000000&title_color=cccccc&text_color=999999&count_private=true&langs_count=10&hide_progress=true&hide_border=true" height="180" />
-</div>
+https://github-stats-extended.vercel.app/api?username=nyxolz&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark
 
 ---
 
