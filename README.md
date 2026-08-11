@@ -8,10 +8,13 @@ Currently Learning
 - Luau
 - TypeScript
 - Reverse engineering
+- 
 Languages I Use
+
 JavaScript, TypeScript, HTML, CSS
 -
 Languages I HATE
+
 Swift, C++
 ---
 
