@@ -8,7 +8,7 @@
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E) ![typescript](https://img.shields.io/badge/TypeScript-3178C6) ![html](https://img.shields.io/badge/HTML-E34F26) ![css](https://img.shields.io/badge/CSS-264DE4)
 
-## languages i hate
+## languages i hate using 
 
 ~~swift~~ · ~~c++~~
 
