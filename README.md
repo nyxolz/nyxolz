@@ -12,6 +12,7 @@
 
 ~~swift~~
 
-# projects (all on macos and all for roblox)
-- open source intel & arm64 external for roblox 
+## projects im working on
+(all on macos and all for roblox)
+- open source intel & arm64 external
 - open source intel and arm64 dumper (230+ offsets) 
